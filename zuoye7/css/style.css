@@ -1,0 +1,28 @@
+body{
+	font-family:Arial;
+	font-size:12px;
+	color:grey;
+	line-height:2em;
+}
+
+a{
+	color:#727272;
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+.a3{
+	color:#fdb306;
+}
+.a3:hover{
+	color:#b9f605;
+	text-decoration:none;
+}
+.a1{
+	color:white;
+}
+.a1:hover{
+	color:#b9f605;
+	text-decoration:none;	
+}
