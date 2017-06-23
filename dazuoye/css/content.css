@@ -1,0 +1,355 @@
+#header{
+	width: 1500px;
+	background-image:url(../images/banner.jpg);
+	float:left;
+}
+body{
+	background-color:black;
+	width:1500px;
+}
+.logo{
+	width: 150px;
+	float:left;
+
+}.p1{
+	width:100px;
+	height: 100px;
+	margin-top:10px;
+	margin-left:20px;
+}
+.word{
+	width:150px;
+	float:left;
+	margin-left:10px;
+	margin-top:35px;
+}
+.a1{
+	font-size:30px;
+	color:#6495ed;
+	font-family:'华文隶书';
+	text-decoration:none;
+} 
+.a1:hover{
+	font-weight:bold;
+}
+.a2{
+	font-size:15px;
+	color:black;
+	text-decoration:none;
+}
+.a2:hover{
+	font-weight:bold;
+}
+.list{
+	width:900px;	
+	float:right;
+	margin-top:55px; ;
+	margin-left:50px;
+}
+.list a{
+	text-decoration:none;
+	color:white;
+	font-size:25px;
+	font-family:'华文黑体';
+	font-weight:bold;
+}
+.list a:hover{
+	color:#daa520;
+}
+.list li{
+	list-style:none;
+	float: left;
+}
+.search{
+	width:180px;
+	float:right;
+	margin-top:-26px;
+	margin-left:300px;
+}
+.in1{
+	width: 120px;
+	height:20px;
+}
+.in2{
+	width: 50px;
+	height:25px;
+	background-color:#32cd32;
+}
+#content{
+	width:1100px;
+	height:1600px;
+	float: left;
+	margin-top:10px;
+	margin-left:200px;
+}
+.content_top{
+	width:1100px;
+	height:350px;
+	margin-top:10px;
+	float:left;
+}
+.b1{
+	width:1100px;
+	margin-top:10px;
+}
+.z1{
+	color: #87ceeb;
+	font-size:30px;
+	font-family:'华文行楷';
+	text-decoration:none;
+}
+.z1:hover{
+	font-weight:bold;
+}
+.c1{
+	width: 250px;
+	height: 300px;
+	margin-left:10px;
+	float:left;
+}
+.p1{
+	margin-left:15px;
+	margin-top:15px;
+}
+.t1{
+	opacity:0.8;
+}
+.t1:hover{
+	opacity:1.0;
+}
+.c2{
+	width: 250px;
+	height: 300px;
+	margin-left:25px;
+	float: left;
+}
+.p2{
+	margin-left:15px;
+	margin-top:15px;
+}
+.t2{
+	opacity:0.8;
+}
+.t2:hover{
+	opacity:1.0;
+}
+.c3{
+	width: 250px;
+	height: 300px;
+	margin-left:25px;
+	float: left;
+}
+.p3{
+	margin-left:15px;
+	margin-top:15px;
+}
+.t3{
+	opacity:0.8;
+}
+.t3:hover{
+	opacity:1.0;
+}
+.c4{
+	width: 250px;
+	height: 300px;
+	margin-left:25px;
+	float: left;
+}
+.p4{
+	margin-left:15px;
+	margin-top:15px;
+}
+.t4{
+	opacity:0.8;
+}
+.t4:hover{
+	opacity:1.0;
+}
+.b3{
+	width:250px;
+	height:30px;
+}
+.b3 p a{
+	color:white;
+	font-size:15px;
+	text-decoration:none;
+}
+.b4 p a{
+	color:white;
+	font-size:15px;
+	text-decoration:none;
+}
+.b5 p a{
+	color:white;
+	font-size:15px;
+	text-decoration:none;
+}
+.b6 p a{
+	color:white;
+	font-size:15px;
+	text-decoration:none;
+}
+.b3 p a:hover{
+	font-weight:bold;
+}
+.b4 p a:hover{
+	font-weight:bold;
+}
+.b5 p a:hover{
+	font-weight:bold;
+}
+.b6 p a:hover{
+	font-weight:bold;
+}
+.content_bottom{
+	width:1100px;
+	height:1000px;
+	margin-top:10px;
+	float: left;
+}
+.b7{
+	width:1100px;
+	margin-top:10px;
+}
+.z2{
+	color: #87ceeb;
+	font-size:30px;
+	font-family:'华文行楷';
+	text-decoration:none;
+}
+.z2:hover{
+	font-weight:bold;
+}
+.b8{
+	width: 1100px;
+}
+.b9{
+	width:800px;
+	height:60px;
+}
+.b9 ul li{
+	list-style: none;
+	float: left;
+}
+.b9 ul li a{
+	color: #a9a9a9;
+	font-size: 25px;
+	font-family:'华文黑体';
+	text-decoration:none;
+}
+.b9 ul li a:hover{
+	font-weight:bolder;
+}
+.b10{
+	width:480px;
+	height: 420px;
+	float: left;
+	margin-top:10px;
+}
+.b11{
+	margin-top:15px;
+	margin-left:15px;
+}
+.p13{
+	width:400px;
+	height: 350px;
+	opacity:0.5;
+}
+.p13:hover{
+	width:450px;
+	height: 400px;
+	opacity: 1.0;
+}
+.b12{
+	width:480px;
+	height: 420px;
+	float: left;
+	margin-top:10px;
+	margin-left:100px;
+}
+.b13{
+	margin-top:15px;
+	margin-left:15px;
+}
+.p14{
+	width:400px;
+	height: 350px;
+	opacity:0.5;
+}
+.p14:hover{
+	width:450px;
+	height: 400px;
+	opacity: 1.0;
+}
+.b14{
+	width:480px;
+	height: 420px;
+	margin-top:10px;
+	float: left;
+}
+.b15{
+	margin-top:15px;
+	margin-left:15px;
+}
+.p15{
+	width:400px;
+	height: 350px;
+	opacity:0.5;
+}
+.p15:hover{
+	width:450px;
+	height: 400px;
+	opacity: 1.0;
+}
+.b16{
+	width:480px;
+	height: 420px;
+	float: left;
+	margin-top:10px;
+	margin-left:100px;
+}
+.b17{
+	margin-top:15px;
+	margin-left:15px;
+}
+.p16{
+	width:400px;
+	height: 350px;
+	opacity:0.5;
+}
+.p16:hover{
+	width:450px;
+	height: 400px;
+	opacity: 1.0;
+}
+#footer{
+	width: 1100px;
+	margin-top:40px;
+	float: left;
+}
+.a8{
+	width:700px;
+	margin-left:320px;
+}
+.a9{
+	width:900px;
+	margin-left:150px;
+}
+.a10{
+	width:700px;
+	margin-left:360px;
+	margin-top:15px;
+}
+.w a{
+	text-decoration: none;
+}
+.w a:hover{
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
